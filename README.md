@@ -21,4 +21,4 @@
     - Versatile and multi-paradigm
     - Interpreted and Interactive
 
-[Back To Top](#contents)
+⬆️ [**Back to Top**](#contents)
