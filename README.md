@@ -11,3 +11,5 @@
 
 #### _What is Python_?
 - Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected.
+
+![Back-to-Top_1100x500](https://github.com/izzatkarimov/Python-Cheatsheet/assets/108251704/67b64cc3-34d1-478c-905e-f40dded717cb)
