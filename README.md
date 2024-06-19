@@ -2,7 +2,7 @@
 
 > My Python Notes - My lists on the key topics in Python.
 
-## Contents
+## 🧭 Contents
 | Concepts / Questions | Notes |
 | --- | --- |
 | What is Python? | [Click Here!](#what-is-python?) |
