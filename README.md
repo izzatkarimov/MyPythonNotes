@@ -1,4 +1,4 @@
-# Python Cheatsheet
+# 🐍 Python Cheatsheet
 
 > My Python Notes - My lists on the key topics in Python.
 
