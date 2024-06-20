@@ -1,6 +1,6 @@
-# 🐍 Python Cheatsheet
+# 🐍 My Python Notes
 
-> My Python Notes - My lists on the key topics in Python.
+> My Python Notes - My notes on the key topics of Python.
 
 ## 🧭 Contents
 | Concepts / Questions | Notes |
