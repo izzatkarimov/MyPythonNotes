@@ -28,8 +28,6 @@
 
 ### Table of Contents
 
-- [What is Python]()
-
 </details>
 
 #### ➡️ _What is Python_?
