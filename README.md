@@ -14,6 +14,24 @@
 
 </details>
 
+<details>
+
+<summary>Advanced Concepts in Python</summary>
+
+### Table of Contents
+
+</details>
+
+<details>
+
+<summary>Django</summary>
+
+### Table of Contents
+
+- [What is Python]()
+
+</details>
+
 #### ➡️ _What is Python_?
 - Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. In more details, Python has the following characteristics:
     - High-Level Language
